@@ -1,0 +1,73 @@
+{
+    "meg": {
+        "levels_completed": [],
+        "scores": {
+            "treasure": 0.9375,
+            "unjumble": 1.0,
+            "add_letters": 0.2,
+            "memory": 0.0
+        }
+    },
+    "hey": {
+        "levels_completed": []
+    },
+    "rohin": {
+        "levels_completed": [],
+        "scores": {
+            "treasure": 0.8,
+            "unjumble": 0,
+            "add_letters": 0.8,
+            "memory": 1.0
+        }
+    },
+    "jake": {
+        "levels_completed": []
+    },
+    "Guest": {
+        "levels_completed": [],
+        "scores": {
+            "treasure": 0.6666666666666666,
+            "unjumble": 1.0,
+            "add_letters": 0.0,
+            "memory": null
+        }
+    },
+    "test": {
+        "levels_completed": []
+    },
+    "lola": {
+        "levels_completed": []
+    },
+    "tester": {
+        "scores": {
+            "treasure": 0.0,
+            "unjumble": 0.0,
+            "add_letters": 0.0,
+            "memory": 0.0
+        }
+    },
+    "Meg": {
+        "scores": {
+            "treasure": 0.0,
+            "unjumble": 0.0,
+            "add_letters": 0.0,
+            "memory": 0.0
+        }
+    },
+    "eg": {
+        "scores": {
+            "treasure": 0.0,
+            "unjumble": 0.0,
+            "add_letters": 0.0,
+            "memory": 0.0
+        }
+    },
+    "melo": {
+        "scores": {
+            "treasure": 0,
+            "unjumble": 0.8,
+            "add_letters": null,
+            "memory": 0.0
+        }
+    }
+}
